@@ -12,7 +12,7 @@ const SharedHeader: React.FC = () => {
     <header className="bg-white text-black p-4">
       <nav className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          Tristan Photography
+          Wei Photography
         </Link>
         <ul className="hidden md:flex space-x-4">
           <li className="relative group">
