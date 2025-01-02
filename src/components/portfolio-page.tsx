@@ -12,7 +12,7 @@ export function PortfolioPage() {
       <main className="flex flex-col md:flex-row items-center justify-center px-5 py-10">
         <div className="md:w-1/2 space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold">
-            Hi, I&apos;m Tristan. I shoot epic <span className="underline">photos</span> and make <span className="relative">
+            Hi, I&apos;m Wei. I shoot epic <span className="underline">photos</span> and make <span className="relative">
               <span className="absolute -inset-1 bg-black rounded-full"></span>
               <span className="relative text-white px-2">fun videos</span>
             </span>
@@ -21,15 +21,7 @@ export function PortfolioPage() {
             Let&apos;s work
           </button>
         </div>
-        <div className="md:w-1/2 mt-10 md:mt-0">
-          <Image
-            src="/placeholder.svg?height=600&width=600"
-            alt="Photographer overlooking city skyline at night"
-            width={600}
-            height={600}
-            className="rounded-lg"
-          />
-        </div>
+        
       </main>
 
       <footer className="mt-auto py-6 bg-gray-100">
