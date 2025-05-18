@@ -47,7 +47,7 @@ export default function AboutPage() {
               <li><a href="https://www.instagram.com/weiimyi/" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-black">关注</a></li>
             </ul>
           </nav>
-          <p className="text-sm text-gray-600">© 2024 Tristan Photography. All rights reserved.</p>
+          <p className="text-sm text-gray-600">© 2025 Wei Mai. All rights reserved.</p>
         </div>
       </footer>
     </div>

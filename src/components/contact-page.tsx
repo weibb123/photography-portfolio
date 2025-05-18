@@ -86,7 +86,7 @@ const ContactPage: React.FC = () => {
 
       <footer className="py-6 bg-gray-100">
         <div className="container mx-auto px-5 flex flex-col items-center text-center">
-          <p className="text-sm text-gray-600">© 2024 Wei Mai. All rights reserved.</p>
+          <p className="text-sm text-gray-600">© 2025 Wei Mai. All rights reserved.</p>
         </div>
       </footer>
     </div>
