@@ -34,7 +34,7 @@ const SharedHeader: React.FC = () => {
           <a href="https://www.instagram.com/weiimyi/" target="_blank" rel="noopener noreferrer" className="flex items-center">
             <Instagram size={20} />
           </a>
-          <a href="https://www.tiktok.com/@bweib11" target="_blank" rel="noopener noreferrer" className="flex items-center">
+          <a href="https://www.tiktok.com/@weiimyi" target="_blank" rel="noopener noreferrer" className="flex items-center">
             <FaTiktok size={20} />
           </a>
           <Link href="/contact" className="flex items-center">
